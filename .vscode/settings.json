@@ -1,0 +1,7 @@
+{
+    "dart.flutterHotReloadOnSave": "allIfDirty",
+    "dart.hotReloadOnSave": "allIfDirty",
+    "dart.flutterGenerateLocalizationsOnSave": "all",
+    "dart.offline": true,
+    "dart.hotReloadProgress": "statusBar"
+}
